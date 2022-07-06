@@ -8,11 +8,11 @@
 
 ### Connect with me:
 
-(./img/linkedin-light.svg)](https://www.linkedin.com/in/patrick-deric-rabello-2ab0621a5/)
-(./img/linkedin-dark.svg)](https://www.linkedin.com/in/patrick-deric-rabello-2ab0621a5/)
+(./img/linkedin-light.svg)(https://www.linkedin.com/in/patrick-deric-rabello-2ab0621a5/)
+(./img/linkedin-dark.svg)(https://www.linkedin.com/in/patrick-deric-rabello-2ab0621a5/)
 &nbsp;&nbsp;
-(./img/instagram-light.svg)](https://www.instagram.com/patrickderic/)
-(./img/instagram-dark.svg)](https://www.instagram.com/patrickderic/)
+(./img/instagram-light.svg)(https://www.instagram.com/patrickderic/)
+(./img/instagram-dark.svg)(https://www.instagram.com/patrickderic/)
 
 
 ### Languages and Tools:
