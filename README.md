@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-(./img/linkedin-light.svg)(https://www.linkedin.com/in/patrick-deric-rabello-2ab0621a5/)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[YouTube].svg"/>(https://www.linkedin.com/in/patrick-deric-rabello-2ab0621a5/)
 (./img/linkedin-dark.svg)(https://www.linkedin.com/in/patrick-deric-rabello-2ab0621a5/)
 &nbsp;&nbsp;
 (./img/instagram-light.svg)(https://www.instagram.com/patrickderic/)
