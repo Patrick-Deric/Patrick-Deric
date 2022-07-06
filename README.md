@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on improving my vanilla Javascript code.
 - 🌱 I’m currently learning node.js and to build microservices apps.
-- ⚡ Fun fact: I like being physically active and practi sports.
+- ⚡ Fun fact: I like being physically active and practice sports.
 -->
 
 
