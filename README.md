@@ -1,18 +1,18 @@
 ## I'm a student, web developer and Javascript enthusiast!!
 
-- 🔭 I’m currently working on imrproving my vanilla Javascript code.
+- 🔭 I’m currently working on improving my vanilla Javascript code.
 - 🌱 I’m currently learning node.js and to build microservices apps.
-- ⚡ Fun fact: I like being physically active and sports.
+- ⚡ Fun fact: I like being physically active and practi sports.
 -->
 
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/patrick-deric-rabello-2ab0621a5/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/patrick-deric-rabello-2ab0621a5/)
+(./img/linkedin-light.svg)](https://www.linkedin.com/in/patrick-deric-rabello-2ab0621a5/)
+(./img/linkedin-dark.svg)](https://www.linkedin.com/in/patrick-deric-rabello-2ab0621a5/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/patrickderic/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/patrickderic/)
+(./img/instagram-light.svg)](https://www.instagram.com/patrickderic/)
+(./img/instagram-dark.svg)](https://www.instagram.com/patrickderic/)
 
 
 ### Languages and Tools:
