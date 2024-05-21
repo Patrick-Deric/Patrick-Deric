@@ -1,7 +1,7 @@
 ## I'm a student, web developer and Javascript enthusiast!!
 
-- 🔭 I’m currently working on improving my vanilla Javascript code.
-- 🌱 I’m currently learning node.js and to build microservices apps.
+- 🔭 I’m currently working on improving my flutter apps development.
+- 🌱 I’m currently learning dart, kotlin and flutter to build microservices apps.
 - ⚡ Fun fact: I like being physically active and practice sports.
 -->
 
